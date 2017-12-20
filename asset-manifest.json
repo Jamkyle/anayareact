@@ -1,8 +1,11 @@
 {
   "main.css": "static/css/main.a52fa4b1.css",
   "main.css.map": "static/css/main.a52fa4b1.css.map",
-  "main.js": "static/js/main.6dd90d4e.js",
-  "main.js.map": "static/js/main.6dd90d4e.js.map",
+  "main.js": "static/js/main.10ef52ad.js",
+  "main.js.map": "static/js/main.10ef52ad.js.map",
   "static/media/anaya.svg": "static/media/anaya.dc2ba1f1.svg",
-  "static/media/mini.svg": "static/media/mini.5fef746e.svg"
+  "static/media/andrei.jpg": "static/media/andrei.6fa06404.jpg",
+  "static/media/mini.svg": "static/media/mini.5fef746e.svg",
+  "static/media/natalya.jpg": "static/media/natalya.9c352d7d.jpg",
+  "static/media/steffen.jpg": "static/media/steffen.c63a842f.jpg"
 }
