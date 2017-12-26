@@ -1,11 +1,15 @@
 {
-  "main.css": "static/css/main.fd9f6e01.css",
-  "main.css.map": "static/css/main.fd9f6e01.css.map",
-  "main.js": "static/js/main.cc2e84cf.js",
-  "main.js.map": "static/js/main.cc2e84cf.js.map",
+  "main.css": "static/css/main.3cc2d9d9.css",
+  "main.css.map": "static/css/main.3cc2d9d9.css.map",
+  "main.js": "static/js/main.3f4117f9.js",
+  "main.js.map": "static/js/main.3f4117f9.js.map",
   "static/media/anaya.svg": "static/media/anaya.dc2ba1f1.svg",
   "static/media/andrei.jpg": "static/media/andrei.6fa06404.jpg",
+  "static/media/facebook.svg": "static/media/facebook.e67031b8.svg",
+  "static/media/insta.svg": "static/media/insta.77bdc99f.svg",
   "static/media/mini.svg": "static/media/mini.5fef746e.svg",
   "static/media/natalya.jpg": "static/media/natalya.9c352d7d.jpg",
-  "static/media/steffen.jpg": "static/media/steffen.c63a842f.jpg"
+  "static/media/pinterest.svg": "static/media/pinterest.42950d5e.svg",
+  "static/media/steffen.jpg": "static/media/steffen.c63a842f.jpg",
+  "static/media/twitter.svg": "static/media/twitter.c793707b.svg"
 }
